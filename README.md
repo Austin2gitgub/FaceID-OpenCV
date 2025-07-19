@@ -36,3 +36,14 @@ A real-time face verification system built using a **Siamese Neural Network**, *
 | F1 Score   | 91.5% |
 
 ---
+
+## 🚀 Getting Started
+
+Follow the steps below to set up and run the Face ID verification app on your local machine.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/face-id-siamese-app.git
+cd face-id-siamese-app
+
