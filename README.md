@@ -44,6 +44,20 @@ Follow the steps below to set up and run the Face ID verification app on your lo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/face-id-siamese-app.git
+git clone https://github.com/Austin2gitgub/FaceID-OpenCV.git
 cd face-id-siamese-app
 
+```
+### 2. Install Dependencies
+
+```bash
+pip install kivy[full] kivy_examples
+```
+
+### 3. Train Model, Fine Tune and Get .h5 file
+
+### 4. Run Python File
+
+```bash
+python faceid.py
+```
