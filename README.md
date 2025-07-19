@@ -3,7 +3,7 @@ OpenCV CNN Face Recognition App
 
 A real-time face verification system built using a **Siamese Neural Network**, **OpenCV**, and **TensorFlow/Keras**. This app compares a live camera feed, runs the trained model — suitable for eKYC, mobile face authentication, and secure access control.
 
-![FaceID Demo](demo/demo.mp4) 
+[FaceID Demo Can be Downloaded At](demo/demo.mp4) 
 
 ---
 
@@ -19,7 +19,7 @@ A real-time face verification system built using a **Siamese Neural Network**, *
 
 ## 🛠️ Tech Stack
 
-- Python 3.x
+- Python
 - TensorFlow / Keras
 - OpenCV
 - Kivy
